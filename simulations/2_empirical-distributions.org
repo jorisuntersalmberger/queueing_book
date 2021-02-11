@@ -222,7 +222,7 @@ Find the CDF for arrival times [2,5,7,8,9,10] and plot it
 \begin{exercise}
 Find some data set on the web---take any data source you like---and compute the empirical CDF.
 Include a graph of the ecdf, and comment on your findings.
-You can compare your results with the ~EDCF~ function of the ~statsmodels~ module (search on google), if you are interested.
+You can compare your results with the ~ECDF~ function of the ~statsmodels~ module (search on google), if you are interested.
 \end{exercise}
 
 \begin{exercise}
